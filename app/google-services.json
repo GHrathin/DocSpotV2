@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627375606214",
+    "firebase_url": "https://docspot-3bc07.firebaseio.com",
+    "project_id": "docspot-3bc07",
+    "storage_bucket": "docspot-3bc07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627375606214:android:e1af21f10acce00e2c8ac7",
+        "android_client_info": {
+          "package_name": "com.app.docspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627375606214-o7p4v9tmke8rnphrk7ce5prbfba5j7hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkeWqtHQK-l-73Yx24tUu7C7R9j9BV4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627375606214-o7p4v9tmke8rnphrk7ce5prbfba5j7hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
